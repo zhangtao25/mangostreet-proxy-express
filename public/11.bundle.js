@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{109:function(e,n,t){"use strict";t.r(n);var i=function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  我是mall\n")])};i._withStripped=!0;var l=t(4),s=Object(l.a)({},i,[],!1,null,null,null);s.options.__file="src/view/mall.vue";n.default=s.exports}}]);

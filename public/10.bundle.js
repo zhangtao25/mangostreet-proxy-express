@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{107:function(e,t,n){"use strict";n.r(t);var i=function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  我是欢迎页\n")])};i._withStripped=!0;var s=n(4),l=Object(s.a)({},i,[],!1,null,null,null);l.options.__file="src/view/auth/welcome.vue";t.default=l.exports}}]);

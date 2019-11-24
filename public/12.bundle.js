@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{110:function(e,n,t){"use strict";t.r(n);var i=function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  msg\n")])};i._withStripped=!0;var s=t(4),r=Object(s.a)({},i,[],!1,null,null,null);r.options.__file="src/view/msg.vue";n.default=r.exports}}]);
